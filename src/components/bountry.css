@@ -1,0 +1,22 @@
+.bountry{
+    border: 2px solid saddlebrown;
+    margin: 20px;
+    padding: 20px;
+    background-color: cadetblue;
+}
+
+.bountryCls{
+    background-color: coral;
+}
+
+.bountrygrid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px;
+}
+
+.visited-flags img{
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+}
